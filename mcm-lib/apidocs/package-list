@@ -1,0 +1,10 @@
+com.zhuc.nupay.mcm
+com.zhuc.nupay.mcm.codec
+com.zhuc.nupay.mcm.command
+com.zhuc.nupay.mcm.demo
+com.zhuc.nupay.mcm.entity
+com.zhuc.nupay.mcm.exceptions
+com.zhuc.nupay.mcm.handler
+com.zhuc.nupay.mcm.messages
+com.zhuc.nupay.mcm.messages.base
+com.zhuc.nupay.mcm.misc
